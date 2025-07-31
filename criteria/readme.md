@@ -12,6 +12,16 @@ L'approche n'est pas centrée sur la mesure mais sur l'information qu'on espère
 L'objectif ne sera jamais d'évaluer l'ensemble des critères possibles mais d'être conscient
 des critères possibles et d'opérer un choix en fonction de leurs intérêts respectifs. 
 
+## Liste des domaines
+
+- *[Fonctionnel](./Fonctional)*
+- *[Utilisation](./Usability)* 
+- *[Technique](./Technical)*
+- *[Communautés](./Communities)*
+- *[Politique](./Political)*
+- *[Économique](./Economical)*
+- *[Écosystème](./Ecosystem)*
+
 # Pour aller plus loin
 
 | Article                                                                                                                                                    | Lien                               |

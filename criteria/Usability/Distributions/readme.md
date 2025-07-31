@@ -7,3 +7,8 @@
 ## Description
 
 Dans cette catégorie, on cherche à identifier les modes de distribution du logiciel. On se demandera si des paquets sont proposés, des binaires dans le cas de certains langages. Plus généralement, on regardera si les standards de distributions sont respectés pour un langage donné. 
+
+## Liens
+
+- Documentation des distributions
+- Maintenance des distributions

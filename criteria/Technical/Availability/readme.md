@@ -8,3 +8,8 @@
 
 Dans cette catégorie, l'objectif est d'évaluer la disponibilité du code et ses moyens d'accès.
 On s'intéressera notamment à l'hébergement du code et son système de gestion des versions.
+
+## Liens 
+
+- Conformité juridique du code 
+- Conformité juridique des dépendances

@@ -8,3 +8,7 @@
 ## Description
 
 Dans cette catégorie, l'objectif est de déterminer si le code s'adapte à des situations et des environnements différents. 
+
+## Liens
+
+- Configuration de déploiement

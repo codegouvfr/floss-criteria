@@ -8,3 +8,7 @@
 ## Description
 
 Dans cette catégorie, on cherche à savoir si une personne comprend facilement l'utilité et la raison d'être du logiciel. 
+
+## Lien
+
+- Présence d'un readme

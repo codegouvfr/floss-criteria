@@ -1,1 +1,0 @@
-# Lier au critère *Readme*

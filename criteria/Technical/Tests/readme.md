@@ -7,3 +7,7 @@
 ## Description
 
 Dans cette catégorie, l'objectif est d'évaluer la testabilité du code source. On sera notamment attentif à la couverture des tests, leur automatisation et leur documentation. 
+
+## Liens 
+
+- Documentation des tests
