@@ -7,3 +7,9 @@
 ## Description
 
 Dans ce domaine, l'objectif est d'évaluer les facettes économiques du projet pour les communautés impliquées et pour moi. On s'intéressera donc au modèle économique des entreprises qui gravitent autours de ce logiciel. Mais on regardera également les couts et gains attendus pour vérifier leurs adéquations avec mes capacités. 
+
+### Liste des catégories
+
+- *[Coûts](./Costs)*
+- *[Gains](./Gains)*
+- *[Modèles](./Models)*

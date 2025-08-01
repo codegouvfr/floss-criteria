@@ -8,3 +8,10 @@
 ## Description
 
 Dans ce domaine, l'objectif est d'identifier la place de ce logiciel dans l'écosystème des logiciels existants. 
+
+### Liste des catégories
+
+- *[FLOSS](./FLOSS)*
+- *[Histoire](./History)*
+- *[Migration](./Migration)*
+- *[Propriétaire](./Proprietary)*
