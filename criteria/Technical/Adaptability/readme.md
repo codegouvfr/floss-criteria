@@ -12,3 +12,9 @@ Dans cette catégorie, l'objectif est de déterminer si le code s'adapte à des 
 ## Liens
 
 - Configuration de déploiement
+
+### Liste des critères 
+
+- [Déploiement](./deployability.md)
+- [Portabilité](./portability.md)
+- [Scalabilité](./scalability.md)
