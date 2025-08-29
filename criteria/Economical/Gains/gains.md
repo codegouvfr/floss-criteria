@@ -1,4 +1,4 @@
-# Critère *Gains quantifiables*
+# Critère *Gains qualifiables*
 Quelles sont les gains qualifiables (ex. autonomie, flexibilité) ?
 
 ## Objectif
