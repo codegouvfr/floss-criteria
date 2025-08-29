@@ -13,3 +13,16 @@ On s'intéressera notamment à l'hébergement du code et son système de gestion
 
 - Conformité juridique du code 
 - Conformité juridique des dépendances
+
+## Liste des critères 
+
+- [Liberté de distribution](./free-distribution.md)
+- [Liberté d'exécution](./free-execution.md)
+- [Liberté d'installation](./free-installation.md)
+- [Liberté de modification](./free-modification.md)
+- [Code des développements public](./public-development-code.md)
+- [Code des releases public](./public-releases-code.md)
+- [Découpage des dépôts](./repository-organisation.md)
+- [Outls de contrôle des versions](./version-control-tool.md)
+- [Numérotation des versions](./version-numerotation.md)
+- [Contrôle des versions](./versions-control.md)

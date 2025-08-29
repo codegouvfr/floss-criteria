@@ -11,3 +11,11 @@ Dans cette catégorie, l'objectif est d'évaluer la testabilité du code source.
 ## Liens 
 
 - Documentation des tests
+
+## Liste des critères 
+
+- [Automatisation des tests](./tests-automatisation.md)
+- [Tests de déploiement en continue](./tests-cd.md)
+- [Tests d'intégration en continue](./tests-ci.md)
+- [Couverture des tests](./tests-coverage.md)
+- [Présence de tests](./tests.md)

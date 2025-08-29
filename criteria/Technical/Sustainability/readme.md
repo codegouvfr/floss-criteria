@@ -7,3 +7,7 @@
 ## Description
 
 Dans cette catégorie, l'objectif est d'évaluer l'éco-conception du logiciel. 
+
+## Liste des critères 
+
+- [RGESN](./rgesn.md)

@@ -7,3 +7,8 @@
 ## Description
 
 Dans cette catégorie, l'objectif est d'évaluer l'efficacité du logiciel en terme de performances et de consommation des ressources. 
+
+## Liste des critères 
+
+- [Frugalité](./frugality.md)
+- [Performances](./performances.md)

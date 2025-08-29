@@ -14,3 +14,13 @@ des langages employés.
 
 - Activités 
 - Attractivité de la pile technologique
+
+## Liste des critères 
+
+- [Architecture du code](./code-architecture.md)
+- [Compléxité du code](./code-complexity.md)
+- [Organisation du code](./code-organisation.md)
+- [Standards du code](./code-standards.md)
+- [Commentaires](./commentaries.md)
+- [Maintenance des distributions](./distributions-maintenance.md)
+- [Pile technologique](./stack.md)
