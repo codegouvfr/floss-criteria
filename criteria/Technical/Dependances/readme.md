@@ -10,12 +10,12 @@ Dans cette catégorie, l'objectif est d'évaluer les dépendances du projet pour
 
 ## Liens 
 
-- Conformité des dépendances
+- [Conformité des dépendances](../../Political/Compliance/dependancies-licences.md)
 
 ## Liste des critères 
 
-- [Mise à jour des dépendances](./dependancies-update.md)
 - [Dépendances de développement](./development-dependancies.md)
 - [Dépendances des distributions](./distributions-dependancies.md)
 - [Dépendances de la documentation](./documentation-dependancies.md)
 - [Dépendances d'exécution](./execution-dependancies.md)
+- [Mise à jour des dépendances](./dependancies-update.md)

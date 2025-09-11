@@ -1,6 +1,7 @@
 # Catégorie *Conformité juridique*
 
 Est-ce que le contexte juridique du projet est adaptée à mon propre contexte juridique ? (ex. licences, lois, réglements européens, normes et standards)
+Quels sont les risques juridiques à utiliser ce projet ?
 
 ## Liste des critères
 

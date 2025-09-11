@@ -1,10 +1,15 @@
 # Critère *Dépendances de développement*
-Quelles sont les dépendances liées aux développements et sont-elles libres ? Identification d'un arbre de dépendances le plus complet possible avec nom, url, version, date de release, licence.
 
 ## Objectif
-
+Quelles sont les dépendances liées aux développements et sont-elles libres, à jour et maintenues ?
 
 ## Actions
-
+- Établir l'arbre des dépendances de premier niveau
 
 ## Notation
+0 : certaines dépendances sont propriétaires 
++1 : toutes les dépendances sont libres 
++1 : certaines dépendances sont à jour 
++3 : toutes les dépendances sont à jour 
++1 : certaines dépendances sont maintenues
++3 : toutes les dépendances sont maintenues
