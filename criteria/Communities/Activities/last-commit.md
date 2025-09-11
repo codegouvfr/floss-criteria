@@ -1,4 +1,5 @@
-# Critère *Ancienneté de la dernière release*
+# Critère *Ancienneté du dernier commit*
+
 
 ## Objectif
 Quelle est l'ancienneté du dernier commit ? 
