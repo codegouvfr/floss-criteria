@@ -5,9 +5,12 @@ Quels sont les risques juridiques à utiliser ce projet ?
 
 ## Liste des critères
 
-- [Licences des dépendances](./dependancies-licences.md)
-- [Lois extra-territoriales](./extra-laws.md)
-- [Couverture des licences](./licences-coverage.md)
 - [Licences](./licences.md)
+- [Licences des dépendances](./dependancies-licences.md)
+- [Couverture des licences](./licences-coverage.md)
+- [Changement des licences](./licences-change.md)
+- [DCO](./dco.md)
+- [CLA](./cla.md)
 - [Lois locales](./local-laws.md)
+- [Lois extra-territoriales](./extra-laws.md)
 - [Brevets](./patent.md)

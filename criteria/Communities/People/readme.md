@@ -19,3 +19,5 @@ Comment qualifier les communautés impliquées dans le projet ? Quelles sont leu
 - [Développeurs compétents en sécurité](./security-devs.md)
 - [Supports](./supports.md)
 - [Utilisateurs](./users.md)
+- [Utilisateurs connus](./known-users.md)
+- [Utilisateurs potentiels](./known-users.md)
