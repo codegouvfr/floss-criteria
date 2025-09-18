@@ -5,7 +5,7 @@ Est-ce que le code est distribué avec une ou plusieurs licences validées par l
 
 ## Actions
 - Chercher les licences dans le dépôt du projet.
-- Évaluer leur position par rapport au projet. La position standard est un fichier LICENCE (ou LICENCES). 
+- Évaluer leur position par rapport au projet. La position standard est un fichier LICENSE (ou LICENSES). 
 - Évaluer le format des licences. Les formats standards sont le markdown (.md) et le texte (.txt). 
 - Évaluer le contenu des licences. Il doit y avoir une copie du contenu de la licence. 
 - Qualifier les licences. Elles doivent être validées par l'OSI et la FSF. 

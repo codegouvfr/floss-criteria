@@ -10,7 +10,7 @@ Dans cette catégorie, l'objectif est d'évaluer les dépendances du projet pour
 
 ## Liens 
 
-- [Conformité des dépendances](../../Political/Compliance/dependancies-licences.md)
+- [Conformité des dépendances](../../Political/Compliance/dependancies-licenses.md)
 
 ## Liste des critères 
 
