@@ -9,6 +9,7 @@ Quels sont les risques juridiques à utiliser ce projet ?
 - [Licences des dépendances](./dependancies-licences.md)
 - [Couverture des licences](./licences-coverage.md)
 - [Changement des licences](./licences-change.md)
+- [Copyrights](./copyrights.md)
 - [DCO](./dco.md)
 - [CLA](./cla.md)
 - [Lois locales](./local-laws.md)
