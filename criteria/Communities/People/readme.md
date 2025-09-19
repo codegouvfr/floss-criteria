@@ -6,7 +6,9 @@ Comment qualifier les communautés impliquées dans le projet ? Quelles sont leu
 ## Liste des critères 
 
 - [Consortiums](./consortiums.md)
-- [Contributeurs](./contributors.md)
+- [Contributeurs totaux](./contributors.md)
+- [Contributeurs récents](./last-contributors.md)
+- [Évolution des contributeurs](./contributors-evolution.md)
 - [Entreprises](./enterprises.md)
 - [Fondations](./foundations.md)
 - [Gouvernants](./governors.md)
