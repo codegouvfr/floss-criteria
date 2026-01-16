@@ -22,5 +22,6 @@ des langages employés.
 - [Organisation du code](./code-organisation.md)
 - [Standards du code](./code-standards.md)
 - [Commentaires](./commentaries.md)
+- [Modélisation des données](./data-modelisation.md)
 - [Maintenance des distributions](./distributions-maintenance.md)
 - [Pile technologique](./stack.md)

@@ -21,3 +21,4 @@ Dans cette catégorie, l'objectif est d'évaluer les dépendances du projet pour
 - [Mise à jour des dépendances](./dependancies-update.md)
 - [Arbre des dépendances](./dependance-tree.md)
 - [Dépendances sous forme de services](./saas-dependancies.md)
+- [Dépendances à des modèles IA](./ai-dependancies.md)
