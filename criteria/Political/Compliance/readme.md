@@ -15,3 +15,4 @@ Quels sont les risques juridiques à utiliser ce projet ?
 - [Lois locales](./local-laws.md)
 - [Lois extra-territoriales](./extra-laws.md)
 - [Brevets](./patent.md)
+- [Marques](./trademarks.md)
