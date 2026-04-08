@@ -14,3 +14,4 @@ Est-ce que le projet est actif ? quelles sont les activités actuelles des commu
 - [Temps de réponse à un ticket](./issue-response-time.md)
 - [Traitement des changements](./ratio-pr.md)
 - [Nombre de releases](./release-number.md)
+- [Premier commit](./first-commit.md)
