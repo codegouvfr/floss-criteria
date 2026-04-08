@@ -1,6 +1,6 @@
 # Catégorie *Gouvernance*
 
-Est-ce que la gouvernance du projet est alignée avec mes attentes ? Qui décide des règles et comment ? Comment intégrer ou sortir de ce groupe ? Historique ?
+Est-ce que la gouvernance du projet est alignée avec mes attentes ? Qui décide des règles et comment ? Qui décide de la suite du projet ? Comment intégrer ou sortir de ce groupe ? Historique ?
 
 ## Liste des critères
 
@@ -8,3 +8,10 @@ Est-ce que la gouvernance du projet est alignée avec mes attentes ? Qui décide
 - [Facteur éléphant de la gouvernance](./governance-elephant-factor.md)
 - [Présence d'une gouvernance](./governance-presence.md)
 - [Type de la gouvernance](./governance-type.md)
+
+## Liens 
+
+- Modèle économique 
+- Communautés 
+- CLA
+- Marques
