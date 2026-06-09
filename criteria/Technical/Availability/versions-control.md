@@ -10,3 +10,4 @@ Est-ce que le dépôt de code est versionné par un outil ?
 ## Notation
 0 : aucun outil n'est utilisé pour le contrôle des versions
 +1 : un outil est utilisé pour le contrôle des versions
++3 : l'outil utilisé est standard (ex. Git)
