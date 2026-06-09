@@ -2,7 +2,7 @@
 
 ## Enjeux
 
-- Est-ce que le logiciel est utilisable par des personnes en situation de handicape ?
+- Est-ce que le logiciel est utilisable par des personnes en situation de handicape ? Ou du moins, est-ce que le projet est conscient des besoins et a entamé une démarche pour s'améliorer ? 
   
 ## Description
 
@@ -12,4 +12,5 @@ Nous n'évaluons pas l'accessibilité des contributions au code car elle dépend
 
 ### Liste des critères 
 
+- [Politique d'accessibilité](./accessibility-politics.md)
 - [RGAA](./rgaa.md)
