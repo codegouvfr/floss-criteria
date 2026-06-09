@@ -4,9 +4,9 @@
 Est-ce que le logiciel dépend de services extérieur à lui pour fonctionner ? Est-ce que ces services sont libres ou a minima gratuits ?
 
 ## Actions
-- Établir la liste des services dont dépend l'exécution du logiciel. 
+- Établir la liste des services dont dépend l'exécution du logiciel d'après la documentation d'installation. 
 - Pour chaque service listé, déterminer si ce dernier est libre ou a minima gratuit. 
 
 ## Notation
-0 : certains services sont propriétaires 
+0 : certains services nécessaires sont propriétaires 
 +1 : tous les services sont libres 
