@@ -14,6 +14,7 @@ Suivre les critères de l'openSSF
 
 ## Liste des critères 
 
+- [Politique sécuritaire](./security.md)
 - [Documentation des corrections de sécurité](./changelog-security.md)
 - [Bonnes pratiques cryptographiques](./cryptography.md)
 - [Données sécurisées](./secured-data.md)
