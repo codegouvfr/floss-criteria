@@ -18,7 +18,9 @@ Pour cela, on s'intéressera particulièrement à la complexité du code et aux 
 
 - [Architecture du code](./code-architecture.md)
 - [Taille du code](./code-size.md)
-- [Compléxité du code](./code-complexity.md)
+- [Code mort](./dead-code.md)
+- [Compléxité humaine du code](./human-code-complexity.md)
+- [Compléxité pour un LLM du code](./llm-code-complexity.md)
 - [Organisation du code](./code-organisation.md)
 - [Standards du code](./code-standards.md)
 - [Commentaires](./commentaries.md)
