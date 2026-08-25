@@ -23,3 +23,4 @@ Suivre les critères de l'openSSF
 - [Absence de données sensibles](./sensible-data.md)
 - [Signalement de failles de sécurité](./vulnerabilities-reports.md)
 - [Recherche de vulnérabilités](./vulnerability-analysis.md)
+- [Vulnérabilités non corrigées](./vulnerabilities-uncorrected.md)

@@ -5,10 +5,12 @@ Quels sont les risques juridiques à utiliser ce projet ?
 
 ## Liste des critères
 
-- [Licences](./licences.md)
-- [Licences des dépendances](./dependancies-licences.md)
-- [Couverture des licences](./licences-coverage.md)
-- [Changement des licences](./licences-change.md)
+- [Licences](./licenses.md)
+- [Licences des dépendances](./dependencies-licenses.md)
+- [Données libres](./free-data.md)
+- [Saas libres](./free-saas.md)
+- [Couverture des licences](./licenses-coverage.md)
+- [Changement des licences](./licenses-change.md)
 - [Copyrights](./copyrights.md)
 - [DCO](./dco.md)
 - [CLA](./cla.md)
