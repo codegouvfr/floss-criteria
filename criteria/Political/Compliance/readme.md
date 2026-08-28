@@ -7,8 +7,6 @@ Quels sont les risques juridiques à utiliser ce projet ?
 
 - [Licences](./licenses.md)
 - [Licences des dépendances](./dependencies-licenses.md)
-- [Données libres](./free-data.md)
-- [Saas libres](./free-saas.md)
 - [Couverture des licences](./licenses-coverage.md)
 - [Changement des licences](./licenses-change.md)
 - [Copyrights](./copyrights.md)
