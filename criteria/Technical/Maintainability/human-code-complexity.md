@@ -21,4 +21,10 @@ Est-ce que le code est complexe pour un humain ?
   - La bonne utilisation des variables : une variable = un usage
 
 ## Notation
+Note entre 0 et 20 :
+- 0 : code globalement complexe, difficile à comprendre et à maintenir.
+- +5 : nombre de fonctions raisonnable et complexité cognitive maîtrisée.
+- +5 : tailles de fonctions et de fichiers contenues.
+- +5 : noms de fonctions et de variables explicites et cohérents.
+- +5 : documentation fonctionnelle présente et utile.
 
