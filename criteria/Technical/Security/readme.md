@@ -17,7 +17,7 @@ Suivre les critères de l'openSSF
 - [Politique sécuritaire](./security.md)
 - [Documentation des corrections de sécurité](./changelog-security.md)
 - [Bonnes pratiques cryptographiques](./cryptography.md)
-- [Données sécurisées](./secured-data.md)
+- [Gestion du code sécurisée](./secured-data.md)
 - [Dépendances sécurisées](./secured-dependancies.md)
 - [Distributions sécurisées](./secured-distributions.md)
 - [Absence de données sensibles](./sensible-data.md)

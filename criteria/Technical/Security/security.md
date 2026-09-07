@@ -1,9 +1,11 @@
 # Critère *Politique de sécurité*
 
 ## Objectif
+
 Est-ce que le projet a une politique de sécurité ? 
 
 ## Actions
+
 - Chercher le SECURITY du projet.
 - Déterminer sa position. La position standard est la racine du dépôt.
 - Déterminer son nom. Le nom standard est SECURITY.
@@ -12,6 +14,7 @@ Est-ce que le projet a une politique de sécurité ?
 - Vérifier la présence d'un point de contact pour remonter des failles discrètement. 
 
 ## Notation
+
 Note entre 0 et 20 selon le barême suivant :
 - 0 : absence de politique sécuritaire
 - +2 : présence d'une politique sécuritaire
